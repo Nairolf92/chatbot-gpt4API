@@ -1,3 +1,3 @@
 # chatbot-gpt4API
 
-node app.hs
+node app.js
